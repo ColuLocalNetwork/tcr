@@ -15,22 +15,17 @@
     "exitTimeDelay": 600,
     "exitPeriodLen": 600
 	},
-  "name": "The TestChain Registry",
+  "name": "LiorChain Registry",
   "token": {
     "supply": "1000000000000000000000000000",
-    "name": "TestCoin",
+    "name": "LiorRegCoin",
     "decimals": "18",
-    "symbol": "TEST",
+    "symbol": "LIORREG",
     "tokenHolders": [
-      "0xd09cc3bc67e4294c4a446d8e4a2934a921410ed7",
-      "0x8FEa967fF3E8B14498BC17D8d43E8cdd614613c7",
-      "0x874Fec5f1D5045B85f46fBD2Be6264867c3D7cE5",
-      "0xf978cC95Eba88cC8869e580d282620e3b4382016",
-      "0x4fB9dEA18CDf6f737afDfc3f680Fb5500F8F893A",
-      "0xf17f52151EbEF6C7334FAD080c5704D77216b732",
-      "0xC5fdf4076b8F3A5357c5E395ab970B5B54098Fef",
-      "0x821aEa9a577a9b44299B9c15c88cf3087F3b5544",
-      "0x627306090abaB3A6e1400e9345bC60c78a8BEf57"
+      "0xB8Ce4A040E8aA33bBe2dE62E92851b7D7aFd52De",
+      "0xD315d4762109B53Acb9C7CE9c2AD9A39bbe6569E",
+      "0xBEcBB05d857f7aD51841fB07C184135E7aCcc345",
+      "0x15cb89DEAea044ce3fA73b3D2ecCa30D6dB6de34"
     ]
   }
 }
